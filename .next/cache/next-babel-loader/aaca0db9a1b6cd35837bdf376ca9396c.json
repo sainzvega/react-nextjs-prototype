@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nvar contentStyle = {\n  height: \"100vh\",\n  marginBottom: \"30px\"\n};\nexport function Content(_ref) {\n  var children = _ref.children;\n  return __jsx(\"main\", {\n    style: contentStyle\n  }, children);\n}","map":null,"metadata":{},"sourceType":"module"}
